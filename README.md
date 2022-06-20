@@ -1,13 +1,18 @@
 # basic-auth
 
 ## 🚀 heroku link 
+https://projectes1.herokuapp.com/
+
+https://wajeeh-project-auth.herokuapp.com/
 
 ## 🚀 project link
+https://github.com/WajeehHussein/auth-project
 
 ## 🚀 pull request
+https://github.com/WajeehHussein/auth-project/pulls
 
 ## 🚀 action
-
+https://github.com/WajeehHussein/auth-project/actions
 
 ## how use
 #### signup
