@@ -1,13 +1,13 @@
 # basic-auth
 
 ## 🚀 heroku link 
-https://auth-700.herokuapp.com/
+
 ## 🚀 project link
-https://github.com/lithhalim/auth-api
+
 ## 🚀 pull request
-https://github.com/lithhalim/auth-api/pulls
+
 ## 🚀 action
-https://github.com/lithhalim/auth-api/actions
+
 
 ## how use
 #### signup
